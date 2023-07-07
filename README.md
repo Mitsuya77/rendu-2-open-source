@@ -39,7 +39,7 @@ npm login
 npm install --save-dev jest 
 ```
 ```bash 
-npm eslint index.js
+npx eslint index.js
 ```
 ```bash 
 npx test
