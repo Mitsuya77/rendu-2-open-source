@@ -1,0 +1,13 @@
+Student_pk;Nom;Prenom;Note;Commentaire;14;6;9
+12312321312;DOE;John;;;11;15;17
+12312321313;DOE;Maria;;;9;5;13
+12312321314;DOE;Jane;;;1;0;18
+12312321315;DOE;John 2;;;11;2;15
+12312321316;DOE;Mariasse;;;17;4;7
+;Moyenne;10.4;3;11;6
+;Moyenne;13.333333333333334;2;3;18
+;Moyenne;8.571428571428571;7;13;13
+
+Moyenne;;;;;8.33;3;1
+Moyenne;;;;;6.20;7
+Moyenne;;;;;11.27
