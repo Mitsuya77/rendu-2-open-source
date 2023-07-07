@@ -1,4 +1,11 @@
 # rendu-2-open-source
+Voici ma fonction que j'ai utiliser 
+
+```bash 
+function addRandomNotesToCSV(students, minNote, maxNote) {
+} 
+```
+
 
 # Random Notes Generator
 
