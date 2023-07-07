@@ -18,45 +18,33 @@ The Random Notes Generator is a JavaScript function that reads a CSV file contai
 ## Requirements
 
 - Node.js
-- npm or Yarn
+- npm 
 
 ## Installation
 
 1. Clone the repository:git@github.com:Mitsuya77/rendu-2-open-source.git
+2. npm install
 
-```bash
-git clone 
-Navigate to the project directory:
-bash
-Copy code
-cd random-notes-generator
-Install the dependencies:
-bash
-Copy code
-npm install
-or
+or 
 
-bash
-Copy code
-yarn install
-Usage
-Ensure that you have a CSV file containing a list of students. The file should have one student per line.
-
-Modify the students.csv file path and the desired range of random notes (minimum and maximum values) in the addRandomNotesToCSV function call.
-
-Run the following command to add random notes to the CSV file:
-
-bash
-Copy code
-npm run generate-notes
-or
-
-bash
-Copy code
-yarn generate-notes
-The function will read the CSV file, add random notes to each student's record, calculate the average, and update the CSV file with the modified data.
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+```bash 
+npm init 
+```
+```bash 
+npm install 
+```
+```bash 
+npm login  
+```
+```bash 
+npm install --save-dev jest 
+```
+```bash 
+npx test
+```
+```bash 
+node index.js
+```
 
 
 Feel free to customize the content based on your specific project details.
