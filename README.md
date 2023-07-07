@@ -1,12 +1,3 @@
-# rendu-2-open-source
-Voici ma fonction que j'ai utiliser 
-
-```bash 
-function addRandomNotesToCSV(students, minNote, maxNote) {
-} 
-```
-
-
 # Random Notes Generator
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -53,5 +44,11 @@ npx test
 node index.js
 ```
 
+Here’s my feature I use 
+
+```bash 
+function addRandomNotesToCSV(students, minNote, maxNote) {
+} 
+```
 
 Feel free to customize the content based on your specific project details.
