@@ -20,7 +20,7 @@ The Random Notes Generator is a JavaScript function that reads a CSV file contai
 
 ## Installation
 
-1. Clone the repository: <a href="git@github.com:Mitsuya77/rendu-2-open-source.git"a>
+1. Clone the repository: <a href="git@github.com:Mitsuya77/rendu-2-open-source.git">repo link</a>
 2. npm install
 
 or 
