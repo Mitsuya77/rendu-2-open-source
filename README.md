@@ -22,7 +22,7 @@ The Random Notes Generator is a JavaScript function that reads a CSV file contai
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:git@github.com:Mitsuya77/rendu-2-open-source.git
 
 ```bash
 git clone 
@@ -58,7 +58,5 @@ The function will read the CSV file, add random notes to each student's record, 
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-css
-Copy code
 
 Feel free to customize the content based on your specific project details.
