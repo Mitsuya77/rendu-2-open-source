@@ -43,3 +43,4 @@ function addRandomNotesToCSV(students, minNote, maxNote) {
 
 // Utilisation de la fonction
 addRandomNotesToCSV('students.csv', 0, 20);
+module.exports = addRandomNotesToCSV;
